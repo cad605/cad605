@@ -4,7 +4,7 @@ I'm a Principal Software Engineer at [Compass Pathways](https://compasspathways.
 
 ### Recent
 
-Lately I've been enjoying learning [Effect](https://effect.website). In particular, I've been working on the following [CodeCrafters Challenges](https://app.codecrafters.io/catalog) to both experiment with the library and also learn the underlying technologies more deeply:
+Lately I've been enjoying learning [Effect](https://effect.website). In particular, I've been working on the following [CodeCrafters Challenges](https://app.codecrafters.io/catalog) to both experiment with the library and learn the underlying technologies more deeply:
 
 <table>
   <thead align="center">
@@ -16,14 +16,14 @@ Lately I've been enjoying learning [Effect](https://effect.website). In particul
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/cad605/coding-agent-effect"><b>🤖 Coding Agent with Effect</b></a> — a basic coding agent built with Effect, following along with the associated CodeCrafters challenge</td>
-      <td><img alt="Effect-TS" src="https://img.shields.io/badge/Effect--TS-7E4CFF?style=flat-square&logo=effect&logoColor=white" /></td>
-      <td><a href="https://app.codecrafters.io/courses/claude-code/overview"><b>Instructions</b></a></td>
-    </tr>
-    <tr>
       <td><a href=https://github.com/cad605/git-effect"><b>🪾 Git with Effect</b></a> — a git implementation built with Effect, following along with the associated CodeCrafters challenge</td>
       <td><img alt="Effect-TS" src="https://img.shields.io/badge/Effect--TS-7E4CFF?style=flat-square&logo=effect&logoColor=white" /></td>
       <td><a href="https://app.codecrafters.io/courses/git/overview"><b>Instructions</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cad605/coding-agent-effect"><b>🤖 Coding Agent with Effect</b></a> — a basic coding agent built with Effect, following along with the associated CodeCrafters challenge</td>
+      <td><img alt="Effect-TS" src="https://img.shields.io/badge/Effect--TS-7E4CFF?style=flat-square&logo=effect&logoColor=white" /></td>
+      <td><a href="https://app.codecrafters.io/courses/claude-code/overview"><b>Instructions</b></a></td>
     </tr>
   </tbody>
 </table>
